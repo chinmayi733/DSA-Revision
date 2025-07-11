@@ -1,4 +1,4 @@
-package org.example;
+package org.example.HashCodeAndEquals;
 
 
 //HashCode and Equals for Song class
