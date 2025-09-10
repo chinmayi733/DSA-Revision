@@ -21,6 +21,7 @@ public class BlockingQ  {
         };
 
         Thread t2 = new Thread(r);
+        t2.run();
 
         //producer thread
         new Thread(()->{
